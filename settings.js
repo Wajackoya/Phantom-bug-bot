@@ -8,22 +8,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
+global.ownernomer = "254102510747"
+global.ownername = "*♝∆𝕎𝔸𝕁𝔸ℂ𝕂𝕊"
 global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
-global.location = "India, Mizoram, Aizawl"
+global.location = "Africa, Kenya, Mombasa"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
+global.ownernumber = '254102510747'  //creator number
+global.ownername = '♝∆𝕎𝔸𝕁𝔸ℂ𝕂𝕊' //owner name
 global.botname = 'xbug bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Phantom'
-global.author = 'Hallo\n\nContact: 2348108395270'
+global.packname = 'Sticker By ♝∆𝕎𝔸𝕁𝔸ℂ𝕂𝕊|•☷•|(♖)'
+global.author = 'Hallo\n\nContact: 254102510747'
 
 //console view/theme
-global.themeemoji = '😡'
+global.themeemoji = '🇰🇪'
 global.wm = "Phantom"
 
 //theme link
@@ -50,15 +50,15 @@ global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
-    done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
-    group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    done: 'nishafinish kumalo!',
+    prem: 'nitumie 20 bob mpesa nikueke premium😊',
+    admin: 'wewe si admin🤣anguka nayo',
+    botAdmin: 'ebu mnipatie cheo kwanza ',
+    owner: 'hii ni ya ♝∆𝕎𝔸𝕁𝔸ℂ𝕂𝕊|•☷•|(♖) pekee😊',
+    group: 'acha ufala🤣 enda gc ',
+    private: 'tumia DM',
+    wait: 'ngoja comrade... ',    
+    error: 'Nimeanguka🤣!',
 }
 
 global.thumb = fs.readFileSync('./modsMedia/thumb.jpg')
