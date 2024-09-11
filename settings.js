@@ -24,7 +24,7 @@ global.author = 'Hallo\n\nContact: 254102510747'
 
 //console view/theme
 global.themeemoji = '🇰🇪'
-global.wm = "Phantom"
+global.wm = "♝∆𝕎𝔸𝕁𝔸ℂ𝕂𝕊"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
@@ -46,15 +46,15 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v4'
 
 //reply messages
 global.mess = {
     done: 'nishafinish kumalo!',
-    prem: 'nitumie 20 bob mpesa nikueke premium😊',
+    prem: 'nitumie 50 bob mpesa nikueke premium😊',
     admin: 'wewe si admin🤣anguka nayo',
     botAdmin: 'ebu mnipatie cheo kwanza ',
-    owner: 'hii ni ya ♝∆𝕎𝔸𝕁𝔸ℂ𝕂𝕊|•☷•|(♖) pekee😊',
+    owner: 'kumbavu zako, mushkila🤣',
     group: 'acha ufala🤣 enda gc ',
     private: 'tumia DM',
     wait: 'ngoja comrade... ',    
